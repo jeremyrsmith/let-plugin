@@ -1,0 +1,4 @@
+<plugin>
+    <name>let-bindings</name>
+    <classname>io.github.jeremyrsmith.scala.let.LetPlugin</classname>
+</plugin>
